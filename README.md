@@ -5,7 +5,8 @@
 
 - 🌱 I’m currently learning cybersecurity
 - 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/luana-ferreira-a99852163/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+- 📫 How to reach me:
+-  <a href="https://www.linkedin.com/in/luana-ferreira-a99852163/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 - 😄 Pronouns: She/her
 
 
